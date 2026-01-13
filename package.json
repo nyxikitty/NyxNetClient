@@ -1,0 +1,21 @@
+{
+  "name": "com.nyxnet.unityclient",
+  "version": "1.0.0",
+  "displayName": "NyxNet Unity Client",
+  "description": "Complete C# client library for Unity that connects to NyxNet Game Server with full protocol support, authentication, rooms, chat, matchmaking, and voice.",
+  "unity": "2020.3",
+  "keywords": [
+    "networking",
+    "multiplayer",
+    "game server",
+    "tcp",
+    "protocol",
+    "nyxnet"
+  ],
+  "author": {
+    "name": "NyxNet",
+    "url": "https://github.com/nyxikitty/NyxNetGameServer"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
